@@ -7,11 +7,23 @@ Oriented around the ICS, PLC, and CPS monitoring world.
 
 NOTE: the readme is categorisied by purpose (Honeypot detection , login page detection, etc..) but the template ar categorized by vendor (expect for the honeypot detections). 
 
+- [PLC model](#honeypot-detection)
 - [Honeypot_detection](#honeypot-detection)
 - [Login_page_detection](#login-page-detection)
 - [Monitoring_page](#monitoring-page)
 - [Unprotected_panel](#unprotected-panel)
 - [Default_password_detection](#default-password-detection)
+
+
+
+# PLC model
+
+| name                                         | purpose                                                                            |
+|----------------------------------------------|------------------------------------------------------------------------------------|
+| modicon_340_detect                           |  Detect Schneider Modicon 340 PLC                                                  |
+| modicon_580_detect                           |  Detect Schneider Modicon 580 PLC                                                  |
+
+---
 
 # Honeypot detection 
 

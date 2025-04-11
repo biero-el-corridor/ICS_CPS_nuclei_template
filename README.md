@@ -7,7 +7,7 @@ Oriented around the ICS, PLC, and CPS monitoring world.
 
 NOTE: the readme is categorisied by purpose (Honeypot detection , login page detection, etc..) but the template ar categorized by vendor (expect for the honeypot detections). 
 
-- [PLC model](#honeypot-detection)
+- [PLC model / Series](#plc-model)
 - [Honeypot_detection](#honeypot-detection)
 - [Login_page_detection](#login-page-detection)
 - [Monitoring_page](#monitoring-page)
@@ -22,6 +22,14 @@ NOTE: the readme is categorisied by purpose (Honeypot detection , login page det
 |----------------------------------------------|------------------------------------------------------------------------------------|
 | modicon_340_detect                           |  Detect Schneider Modicon 340 PLC                                                  |
 | modicon_580_detect                           |  Detect Schneider Modicon 580 PLC                                                  |
+| Red_Lion_detect                              |  Detect Red Lion  PLC                                                              |
+| Allan_Bredlley_CompactLogix_detect           |  Detect Allan Bredlley CompactLogix serie PLC                                      |
+| Allan_Bredlley_GuardPLC_detect               |  Detect Allan Bredlley GuardPLC serie PLC                                          |
+| Allan_Bredlley_Micro800_detect               |  Detect Allan Bredlley Micro800 serie PLC                                          |
+| Allan_Bredlley_MicroLogix_detect             |  Detect Allan Bredlley MicroLogix serie PLC                                        |
+| Allan_Bredlley_PLC-5_detect                  |  Detect Allan Bredlley PLC-5 serie PLC                                             |
+| Allan_Bredlley_SLC-500_detect                |  Detect Allan Bredlley SLC-500 serie PLC                                           |
+
 
 ---
 

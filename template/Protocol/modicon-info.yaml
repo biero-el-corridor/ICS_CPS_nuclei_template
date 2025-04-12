@@ -5,11 +5,12 @@ info:
   author: biero-el-corridor
   severity: info
   description: |
-    Grab info on the Modicon PLC, Shodan query is "Device Identification: Schneider Electric"
+    Grab info on the Modicon PLC.
   metadata:
     max-request: 2
     vendor: Schneider
     product: Modicon
+    shodan-query: "Device Identification: Schneider Electric"
   tags: ICS,modicon
 
 tcp:

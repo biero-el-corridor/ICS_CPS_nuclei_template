@@ -5,11 +5,12 @@ info:
   author: biero-el-corridor
   severity: info
   description: |
-    detect Schenider Electric Modicon 580 series (shodan query: port:502 "P58").
+    detect Schenider Electric Modicon 580 series via UMAS protocol.
   metadata:
     max-request: 2
     vendor: Schneider
     product: Modicon580
+    shodan-query: port:502 "P58"
   tags: ICS,Schenider,modicon
 
 tcp:

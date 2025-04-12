@@ -20,15 +20,15 @@ NOTE: the readme is categorisied by purpose (Honeypot detection , login page det
 
 | name                                         | purpose                                                                            |
 |----------------------------------------------|------------------------------------------------------------------------------------|
-| modicon_340_detect                           |  Detect Schneider Modicon 340 PLC                                                  |
-| modicon_580_detect                           |  Detect Schneider Modicon 580 PLC                                                  |
-| Red_Lion_detect                              |  Detect Red Lion  PLC                                                              |
-| Allan_Bredlley_CompactLogix_detect           |  Detect Allan Bredlley CompactLogix serie PLC                                      |
-| Allan_Bredlley_GuardPLC_detect               |  Detect Allan Bredlley GuardPLC serie PLC                                          |
-| Allan_Bredlley_Micro800_detect               |  Detect Allan Bredlley Micro800 serie PLC                                          |
-| Allan_Bredlley_MicroLogix_detect             |  Detect Allan Bredlley MicroLogix serie PLC                                        |
-| Allan_Bredlley_PLC-5_detect                  |  Detect Allan Bredlley PLC-5 serie PLC                                             |
-| Allan_Bredlley_SLC-500_detect                |  Detect Allan Bredlley SLC-500 serie PLC                                           |
+| modicon_340_detect                           |  Detect Schneider Modicon 340 PLC via UMAS protocol                                                 |
+| modicon_580_detect                           |  Detect Schneider Modicon 580 PLC via UMAS protocol                                                 |
+| Red_Lion_detect                              |  Detect Red Lion  PLC via via ENIP protocol                                                             |
+| Allan_Bredlley_CompactLogix_enip-cip_detect           |  Detect Allan Bredlley CompactLogix serie PLC via enip-cip protocol                                      |
+| Allan_Bredlley_GuardPLC_enip-cip_detect               |  Detect Allan Bredlley GuardPLC serie PLC via enip-cip protocol                                         |
+| Allan_Bredlley_Micro800_enip-cip_detect               |  Detect Allan Bredlley Micro800 serie PLC via enip-cip protocol                                         |
+| Allan_Bredlley_MicroLogix_enip-cip_detect             |  Detect Allan Bredlley MicroLogix serie PLC via enip-cip protocol                                       |
+| Allan_Bredlley_PLC-5_enip-cip_detect                  |  Detect Allan Bredlley PLC-5 serie PLC via enip-cip protocol                                            |
+| Allan_Bredlley_SLC-500_enip-cip_detect                |  Detect Allan Bredlley SLC-500 serie PLC via enip-cip protocol                                          |
 
 
 ---

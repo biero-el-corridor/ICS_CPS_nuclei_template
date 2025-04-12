@@ -1,7 +1,7 @@
 id: Red_Lion_enip_detect
 
 info:
-  name: Red_Lion_detect
+  name: Red_Lion_enip_detect
   author: biero-el-corridor
   severity: info
   description: |

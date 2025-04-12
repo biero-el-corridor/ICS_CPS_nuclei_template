@@ -11,7 +11,7 @@ info:
     vendor: Schneider
     product: Modicon
     shodan-query: "Device Identification: Schneider Electric"
-  tags: ICS,modicon
+  tags: ICS,modicon,schneider
 
 tcp:
   - host:

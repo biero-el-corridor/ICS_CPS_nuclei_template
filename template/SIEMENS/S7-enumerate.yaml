@@ -5,12 +5,12 @@ info:
   author: biero-el-corridor
   severity: info
   description: |
-    Enumerate info about Siemens S7 PLC.
+    Enumerate info about Siemens S7 PLC via s7comm protocol.
   metadata:
     max-request: 2
     vendor: siemens
     product: s7comm
-  tags: ICS,s7comm
+  tags: ICS,s7comm,siemens
 
 tcp:
   - host:

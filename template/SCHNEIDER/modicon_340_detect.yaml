@@ -5,11 +5,12 @@ info:
   author: biero-el-corridor
   severity: info
   description: |
-    detect Schenider Electric Modicon 340 series (shodan query: port:502 "P34") .
+    detect Schenider Electric Modicon 340 series via UMAS protocol.
   metadata:
     max-request: 2
     vendor: Schneider
     product: Modicon340
+    shodan-query: port:502 "P34"
   tags: ICS,Schenider,modicon
 
 tcp:
